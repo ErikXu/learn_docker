@@ -20,3 +20,4 @@
 * [19. 使用 Harbor 搭建 Docker 镜像仓库](harbor.md)
 * [20. Docker 安装 MySQL](mysql.md)
 * [21. Docker Compose 安装 Superset](superset.md)
+* [22. Docker 安装 Jenkins](jenkins.md)
