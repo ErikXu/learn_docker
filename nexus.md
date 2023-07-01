@@ -1,12 +1,3 @@
----
-title: 24 Docker 安装 Nexus
-date: 2022-04-24
-tags: 
-- docker
-categories: 动手学 Docker
-description: Nexus 是目前比较常用的私有仓库中间件，支持 apt、yum、maven、npm、pypi、nuget 等私有仓库，今天我们就来动手学一下用 docker 安装 Nexus。
----
-
 ## 前言
 
 Nexus 是目前比较常用的私有仓库中间件，支持 apt、yum、maven、npm、pypi、nuget 等私有仓库，今天我们就来动手学一下用 docker 安装 Nexus。

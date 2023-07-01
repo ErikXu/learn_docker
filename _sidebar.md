@@ -23,3 +23,4 @@
 * [22. Docker 安装 Jenkins](jenkins.md)
 * [23. Docker 安装 Redis](redis.md)
 * [24. Docker 安装 Nexus](nexus.md)
+* [25. Docker 安装 MinIO](minio.md)
