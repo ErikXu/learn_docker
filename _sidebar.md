@@ -28,3 +28,4 @@
 * [27. Docker 安装 RabbitMQ](rabbit.md)
 * [28. Docker 安装 SonarQube](sonarqube.md)
 * [29. Docker 容器访问宿主机](host.md)
+* [30. Docker 获取硬件信息](device.md)
