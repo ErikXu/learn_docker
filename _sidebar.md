@@ -25,3 +25,4 @@
 * [24. Docker 安装 Nexus](nexus.md)
 * [25. Docker 安装 MinIO](minio.md)
 * [26. Docker 安装 MongoDB](mongo.md)
+* [27. Docker 安装 RabbitMQ](rabbit.md)
