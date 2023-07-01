@@ -12,3 +12,4 @@
 * [11. 构建 Golang Docker 镜像](golang.md)
 * [12. 构建 Rust Docker 镜像](rust.md)
 * [13. 构建 Webpack Docker 镜像](webpack.md)
+* [14. 基于容器构建 Docker 镜像](commit.md)
